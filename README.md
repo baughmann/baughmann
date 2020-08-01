@@ -44,8 +44,8 @@ Professional and diverse software engineer based out of the Washington, D.C. are
 | Vert.X (Scala/Java) | `[2/10]`   | `[9/10]`             |
 | Akka (Scala)        | `[1/10]`   | `[4/10]`             |
 | Scala               | `[3/10]`   | `[8/10]`             |
-| Vulkan              | `[1/10]`   | `[9/10]`             |
-| OpenGL              | `[1/10]`   | `[4/10]`             |
+| Vulkan (GLFW)       | `[1/10]`   | `[9/10]`             |
+| OpenGL (GLFW)       | `[1/10]`   | `[4/10]`             |
 
 ### Areas of Focus
 
