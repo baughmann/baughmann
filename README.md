@@ -56,5 +56,4 @@ Professional and diverse software engineer based out of the Washington, D.C. are
 | "Big Data"                     | `[2/10]`   | `[10/10]`            |
 | Machine Learning & AI          | `[1/10]`   | `[10/10]`            |
 | OSINT                          | `[2/10]`   | `[10/10]`            |
-| HUMINT                         | `[1/10]`   | `[10/10]`            |
 | Game Engine Development        | `[1/10]`   | `[10/10]`            |
