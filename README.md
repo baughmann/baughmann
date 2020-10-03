@@ -35,17 +35,18 @@ Professional and diverse software engineer based out of the Washington, D.C. are
 
 ### Frameworks and Toolsets `(not exhaustive)`
 
-| Framework/Toolset   | Experience | Desire to Learn More |
-| ------------------- | ---------- | -------------------- |
-| .NET Core           | `[8/10]`   | `[1/10]`             |
-| React (Web)         | `[8/10]`   | `[4/10]`             |
-| React Native        | `[5/10]`   | `[5/10]`             |
-| Android Jetpack     | `[3/10]`   | `[10/10]`            |
-| Vert.X (Scala/Java) | `[2/10]`   | `[9/10]`             |
-| Akka (Scala)        | `[1/10]`   | `[4/10]`             |
-| Scala               | `[3/10]`   | `[8/10]`             |
-| Vulkan (GLFW)       | `[1/10]`   | `[9/10]`             |
-| OpenGL (GLFW)       | `[1/10]`   | `[4/10]`             |
+| Framework/Toolset         | Experience | Desire to Learn More |
+| ------------------------- | ---------- | -------------------- |
+| .NET Core                 | `[8/10]`   | `[1/10]`             |
+| React (Web)               | `[8/10]`   | `[4/10]`             |
+| React Native              | `[5/10]`   | `[5/10]`             |
+| Android Jetpack           | `[3/10]`   | `[10/10]`            |
+| Vert.X (Scala/Java)       | `[2/10]`   | `[9/10]`             |
+| Akka (Scala)              | `[1/10]`   | `[4/10]`             |
+| Scala                     | `[3/10]`   | `[8/10]`             |
+| Vulkan (GLFW)             | `[1/10]`   | `[9/10]`             |
+| OpenGL (GLFW)             | `[1/10]`   | `[4/10]`             |
+| Jetpack Compose (Android) | `[3/10]`   | `[8/10]`             |
 
 ### Areas of Focus
 
@@ -56,4 +57,3 @@ Professional and diverse software engineer based out of the Washington, D.C. are
 | "Big Data"                     | `[2/10]`   | `[10/10]`            |
 | Machine Learning & AI          | `[1/10]`   | `[10/10]`            |
 | OSINT                          | `[2/10]`   | `[10/10]`            |
-| Game Engine Development        | `[1/10]`   | `[10/10]`            |
