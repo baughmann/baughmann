@@ -6,7 +6,8 @@ Professional and diverse software engineer based out of the Washington, D.C. are
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/baughmann)
 
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbaughman&show_icons=true&theme=dracula)](https://github.com/nbaughman/github-readme-stats)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=baughmann&show_icons=true&theme=dracula)
+
 
 
 ## Experience
