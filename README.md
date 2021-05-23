@@ -1,4 +1,4 @@
-# Nick Baughman 🇺🇸
+# Nick Baughman 🇺🇸 🎖
 
 Professional and diverse software engineer based out of the Washington, D.C. area.
 
