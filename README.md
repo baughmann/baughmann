@@ -2,10 +2,6 @@
 
 Professional and diverse software engineer based out of the Washington, D.C. area.
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/baughmann)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/baughmann)
-
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=baughmann&show_icons=true&theme=dracula)
 
 
